@@ -51,7 +51,7 @@ export default function Auth() {
 
   return (
     <Container>
-      <h1>Login</h1>
+      <h1>Login Page</h1>
       <Input
         type="text"
         placeholder="Username"
